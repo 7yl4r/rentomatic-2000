@@ -1,4 +1,9 @@
+# [rentomatic2k.netlify.app](https://rentomatic2k.netlify.app/)
 
+*********************************************************************
+
+Deployed using Netlify.
+Deploy status page [here](https://app.netlify.com/sites/rentomatic2k/deploys).
 
 *********************************************************************
 
