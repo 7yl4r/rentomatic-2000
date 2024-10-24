@@ -18,7 +18,8 @@ Deploy status page [here](https://app.netlify.com/sites/rentomatic2k/deploys).
 * local dev setup guide [here](https://devlopr.netlify.app/get-started/#/).
 * develop locally run `bundle exec jekyll server --watch`
   * then edit files 
-
+* purchases are managed using [snipcart](https://app.snipcart.com/dashboard)
+  * if need to modify the API key look in [default.html](https://github.com/7yl4r/rentomatic-2000/blob/master/_layouts/default.html) and [full-width.html](https://github.com/7yl4r/rentomatic-2000/blob/master/_layouts/full-width.html)
 
 *********************************************************************
 
