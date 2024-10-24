@@ -15,6 +15,10 @@ Deploy status page [here](https://app.netlify.com/sites/rentomatic2k/deploys).
 * lower-left made by ___ is a [makerwidget](https://makerwidget.com/home)
 * makerwidget & buymeacoffee setup at the bottom of [head.html](https://github.com/7yl4r/rentomatic-2000/blob/master/_includes/head.html)
 * newsletter setup can be re-enabled in [blog_newsletter.html](https://github.com/7yl4r/rentomatic-2000/edit/master/_includes/blog_newsletter.html)
+* local dev setup guide [here](https://devlopr.netlify.app/get-started/#/).
+* develop locally run `bundle exec jekyll server --watch`
+  * then edit files 
+
 
 *********************************************************************
 
