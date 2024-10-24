@@ -13,7 +13,8 @@ Deploy status page [here](https://app.netlify.com/sites/rentomatic2k/deploys).
     _assets/img - Add all your images here
 
 * lower-left made by ___ is a [makerwidget](https://makerwidget.com/home)
-* makerwidget & buymeacoffee setup at the bottom of [head.html](https://github.com/7yl4r/rentomatic-2000/blob/master/_includes/head.html).
+* makerwidget & buymeacoffee setup at the bottom of [head.html](https://github.com/7yl4r/rentomatic-2000/blob/master/_includes/head.html)
+* newsletter setup can be re-enabled in [blog_newsletter.html](https://github.com/7yl4r/rentomatic-2000/edit/master/_includes/blog_newsletter.html)
 
 *********************************************************************
 
